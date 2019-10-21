@@ -28,5 +28,7 @@
     "tachyons": "^4.9.1",
     "webpack": "^2.3.3"
   },
-  "dependencies": {}
+  "dependencies": {
+    "lodash.template": "^4.5.0"
+  }
 }
